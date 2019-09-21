@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="micro-weather-report" external.linked.project.path="E:/进阶视频/SrpingBootSpringCloud项目/SpringCloud互联网应用项目微服务实战（气象）/x2june/imooc-spring-cloud/micro-weather-report" external.root.project.path="E:/进阶视频/SrpingBootSpringCloud项目/SpringCloud互联网应用项目微服务实战（气象）/x2june/imooc-spring-cloud/micro-weather-report" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://E:/进阶视频/SrpingBootSpringCloud项目/SpringCloud互联网应用项目微服务实战（气象）/x2june/imooc-spring-cloud/micro-weather-report" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

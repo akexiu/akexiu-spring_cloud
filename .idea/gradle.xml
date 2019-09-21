@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/WitherSystem" />
+        <option name="gradleHome" value="E:/tools/gradle-4.10.2-bin/gradle-4.10.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/WitherSystem" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="E:/进阶视频/SrpingBootSpringCloud项目/SpringCloud互联网应用项目微服务实战（气象）/x2june/imooc-spring-cloud/micro-weather-report" />
+        <option name="gradleHome" value="E:/tools/gradle-4.10.2-bin/gradle-4.10.2" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
